@@ -1,0 +1,19 @@
+body{
+  background-color: grey;
+}
+.grt{
+  color: red;
+}
+#name{
+  color: blue;
+  font-size: 20px;
+}
+img{
+  float: left;
+}
+p{
+  color: black;
+}
+.column{
+  clear: both;
+}
