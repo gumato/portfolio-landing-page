@@ -1,5 +1,6 @@
 body{
   background-color: grey;
+  text-align: center;
 }
 .grt{
   color: red;
@@ -19,4 +20,8 @@ p{
 }
 .column{
   clear: both;
+}
+h1{
+  color:blue;
+  text-align: center;
 }
